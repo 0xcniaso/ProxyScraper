@@ -1,4 +1,4 @@
-![](logo.png) ProxyScraper
+ProxyScraper
 > Download proxy lists simply.
 
 With this software you can download all type of proxy (http(s), socks4, socks5).
