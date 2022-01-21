@@ -7,7 +7,7 @@ With this software you can download all type of proxy (http(s), socks4, socks5).
 
 ## Installation
 
-Download the relase on [this](https://github.com/Zpk2/ProxyScraper/releases)
+Download the relase on [this](https://github.com/Zpk2/ProxyScraper/releases) page
 
 OS X & Linux:
 
