@@ -1,9 +1,5 @@
-# ![](logo.png) ProxyScraper
+# ![](logo.png =70x70) ProxyScraper
 > Download proxy lists simply.
-
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
 
 With this software you can download all type of proxy (http(s), socks4, socks5).
 
