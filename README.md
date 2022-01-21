@@ -1,4 +1,4 @@
-# ProxyScraper
+# ![](logo.png) ProxyScraper
 > Download proxy lists simply.
 
 [![NPM Version][npm-image]][npm-url]
