@@ -1,4 +1,4 @@
-# ![](logo.png&s=200) ProxyScraper
+<img width=”70" height=”70" src=”logo.png" alt=”Logo”> ProxyScraper
 > Download proxy lists simply.
 
 With this software you can download all type of proxy (http(s), socks4, socks5).
@@ -21,9 +21,8 @@ Just execute ProxyScraper.exe
 
 ## Usage example
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
-
-_For more examples and usage, please refer to the [Wiki][wiki]._
+Select option 1 after that choose the type of proxy you want to get then enter the path or save the proxy list.
+And there you go your list is ready.
 
 ## Development setup
 
@@ -44,16 +43,8 @@ Niaso (@Zpk2) – niasolatrik@protonmail.com
 
 Distributed under the GNU AGPLv3 license. See ``LICENSE`` for more information.
 
-[https://github.com/yourname/github-link](https://github.com/dbader/)
+[Zpk2](https://github.com/Zpk2/)
 
 ## Contributing
 
-1. Available
-
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
+1. Available Soon ...
