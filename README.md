@@ -41,6 +41,8 @@ Open the project .sln file check and modify what you want and compile it
 
 ## Meta
 
+Binaries hash for verification : 7169c27ae322a40bff0c17c1dd42ac9c0ae774bb703c6f027e89559fdd946edd (Version 1.0)
+
 Niaso (@Zpk2) – niasolatrik@protonmail.com
 
 Distributed under the GNU AGPLv3 license. See ``LICENSE`` for more information.
