@@ -28,10 +28,10 @@ And there you go your list is ready.
 
 ## Development setup
 
-C# Sources will be aviable soon
+C# Sources is available !
 
 ```sh
-Open the project .sln file check and modify what you want and compile it
+Open the project .sln file check and modify what ever you want and compile it
 ```
 
 ## Release History
